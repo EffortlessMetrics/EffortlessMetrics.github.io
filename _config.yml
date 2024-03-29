@@ -21,8 +21,8 @@ title      : Effortless Metrics
 email      : your-email@example.com #this is also the email contact forms will go to
 description: "Effortless Metrics' Website"
 author     : Effortless Metrics
-logo:     #optional, defaults to site title
-  path: assets\img\clients\logo.png
+#logo:     #optional, defaults to site title
+  # path: assets\img\clients\logo.png
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
 
