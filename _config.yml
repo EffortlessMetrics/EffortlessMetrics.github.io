@@ -15,9 +15,9 @@
 remote_theme: raviriley/agency-jekyll-theme
 
 url    : "http://effortlessmetrics.com/" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : Agency Jekyll Theme Demo
+title      : Effortless Metrics
 email      : your-email@example.com #this is also the email contact forms will go to
 description: "Agency Bootstrap theme converted to a Jekyll theme, plus new features: Google Analytics, Markdown support, custom pages, and more!"
 author     : Your Name
@@ -28,7 +28,7 @@ author     : Your Name
 locale: "en-US" # See available languages in _data/sitetext.yml
 
 analytics:
-  google: #Google Analytics tracking code here
+  google: G-1ZPDPNYHFW #Google Analytics tracking code here
 
 collections:
   portfolio:
